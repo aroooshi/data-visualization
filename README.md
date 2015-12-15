@@ -1,5 +1,5 @@
 # Foursquare Visualization
-This project aims to explore the behaviour of Foursquare users in NYC by looking at check-ins from New York City. See it live here: http://arooshi.github.io/foursquare-visualization/
+This project aims to explore the behaviour of Foursquare users in NYC by looking at check-ins from New York City. See it live here: http://arooshi.github.io/data-visualization/
 
 
 ## Dataset
